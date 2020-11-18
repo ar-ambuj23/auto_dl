@@ -1,0 +1,78 @@
+,ProductID,ProductName,SupplierID,CategoryID,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued
+0,1,Kitch Tee Shirt,1,1,1 box X 5 shirts,18.0,39,0,10,False
+1,2,Button Down Shirt,1,1,1 box X 2 shirts,19.0,17,40,25,False
+2,3,Kaki Chinos,1,2,1 pair,10.0,13,70,25,False
+3,4,Dark Jeans,2,2,1 pair,22.0,53,0,0,False
+4,5,Faded Jeans,2,2,1 pair,21.35,0,0,0,True
+5,6,Grey Sweats,3,2,1 box X 5 pair,25.0,120,0,25,False
+6,7,Leather Baseball Cap,3,7,1 box X 2 caps,30.0,15,0,10,False
+7,8,Black Jeans,3,2,1 box X 2 pair,40.0,6,0,0,False
+8,9,Mens Leather Boots,4,6,1 pair,97.0,29,0,0,True
+9,10,Black Sheath,4,8,1 dress,31.0,31,0,0,False
+10,11,Black Pencil,5,4,1 box X 2 Skirts,21.0,22,30,30,False
+11,12,Grey Pencil,5,4,1 box X 2 Skirts,38.0,86,0,0,False
+12,13,Kids Tee Shirt Dress,6,8,1 dress,6.0,24,0,5,False
+13,14,Baseball Cap,6,7,1 box X 4 caps,23.25,35,0,0,False
+14,15,Green Jeans,6,2,1 pair,15.5,39,0,5,False
+15,16,Kaki Bermuda,7,3,1 pair,17.45,29,0,10,False
+16,17,Mens Sneakers,7,6,1 pair,39.0,0,0,0,True
+17,18,Silk Sheath,7,8,1 dress,62.5,42,0,0,False
+18,19,Black Bermuda,8,3,1 pair,9.2,25,0,5,False
+19,20,Kaki Chino,8,3,1 box X 5 pair,81.0,40,0,0,False
+20,21,Black Chino ,8,3,1 pair,10.0,3,40,5,False
+21,22,Black Puffer Coat,9,5,1 coat,21.0,104,0,25,False
+22,23,Wind Breaker,9,5,1 coat,9.0,61,0,25,False
+23,24,Ladies Fitted Tee,10,1,1 shirt,4.5,20,0,0,True
+24,25,Grey Chino ,11,3,1 pair,14.0,76,0,30,False
+25,26,Short Athletic,11,3,1 box X 2 pair,31.23,15,0,0,False
+26,27,Long Athletic,11,3,1 box X 2 pair,43.9,49,0,30,False
+27,28,Leather Fedora,12,7,1 hat,45.6,26,0,0,True
+28,29,Ladies Leather Boots,12,6,1 pair,123.79,0,0,0,True
+29,30,Black Maxi Dress,13,8,1 dress,25.89,10,0,15,False
+30,31,Black Pleated,14,4,1 skirt,12.5,0,70,20,False
+31,32,Black Maxi ,14,4,1 box X 2 Skirts,32.0,9,40,25,False
+32,33,Black Mini,15,4,1 skirt,2.5,112,0,20,False
+33,34,Ladies Fitted Button Down,16,1,1 shirt,14.0,111,0,15,False
+34,35,Pinstripe Button Down,16,1,1 shirt,18.0,20,0,15,False
+35,36,Blue Maxi Dress,17,8,1 dress,19.0,112,0,20,False
+36,37,Linnen Sheath,17,8,1 dress,26.0,11,50,25,False
+37,38,Silk Blouse,18,1,1 box X 12 shirts,263.5,17,0,15,False
+38,39,Printed Tee Shirt,18,1,1 shirt,18.0,69,0,5,False
+39,40,Blue A-Line,19,8,1 dress,18.4,123,0,30,False
+40,41,Kids A-Line,19,8,1 dress,9.65,85,0,10,False
+41,42,Kids Puffer Coat,20,5,1 coat,14.0,26,0,0,True
+42,43,Long Sleeve Tee Shirt,20,1,1 box X 4 shirts,46.0,17,10,25,False
+43,44,Black Sweats,20,2,1 box X 2 pair,19.45,27,0,15,False
+44,45,Kids Sheath,21,8,1 dress,9.5,5,70,15,False
+45,46,Black Tee Shirt Dress,21,8,1 dress,12.0,95,0,0,False
+46,47,Blue Chino,22,3,1 pair,9.5,36,0,0,False
+47,48,Blue Bermuda,22,3,1 pair,12.75,15,70,25,False
+48,49,"Kaki Chino 3"" ",23,3,1 box X 2 pair,20.0,10,60,15,False
+49,50,"Kaki Chino 5""",23,3,1 box X 2 pair,16.25,65,0,30,False
+50,51,Leather Beret,24,7,1 box X 2 caps,53.0,20,0,10,False
+51,52,Kids Windbreaker,24,5,1 coat,7.0,38,0,25,False
+52,53,"Ladies 3"" Heels",24,6,1 pair,32.8,0,0,0,True
+53,54,Flip Flops,25,6,1 pair,7.45,21,0,10,False
+54,55,Ladies Sneakers,25,6,1 pair,24.0,115,0,20,False
+55,56,Black Pea Coat,26,5,1 coat,38.0,21,10,30,False
+56,57,Blue Puffer Coat,26,5,1 coat,19.5,36,0,20,False
+57,58,Blue Tee Shirt Dress,27,8,1 dress,13.25,62,0,20,False
+58,59,Pleated Full,28,4,1 box X 4 Skirts,55.0,79,0,0,False
+59,60,Pleated Slim,28,4,1 box X 2 Skirts,34.0,19,0,0,False
+60,61,Skinny Jeans,29,2,1 pair,28.5,113,0,25,False
+61,62,"Black Chino 3""",29,3,1 box X 3 pair,49.3,17,0,0,False
+62,63,Leather Jeans,7,2,1 pair,43.9,24,0,5,False
+63,64,Vegan Leather Jacket,12,5,1 coat,33.25,22,80,30,False
+64,65,Straight Leg Jeans,2,2,1 pair,21.05,76,0,0,False
+65,66,Black Chinos,2,2,1 pair,17.0,4,100,20,False
+66,67,Mock Turtleneck,16,1,1 shirt,14.0,52,0,10,False
+67,68,"Black Chino 5""",8,3,1 box X 2 pair,12.5,6,10,15,False
+68,69,Red Pencil,15,4,1 box X 2 Skirts,36.0,26,0,15,False
+69,70,TurtleNeck,7,1,1 shirt,15.0,15,10,30,False
+70,71,Blue Mini,15,4,1 box X 2 Skirts,21.5,26,0,0,False
+71,72,Blue Maxi,14,4,1 box X 2 Skirts,34.8,14,0,0,False
+72,73,Gree Maxi,17,8,1 dress,15.0,101,0,5,False
+73,74,Skull Cap,4,7,1 box X 2 caps,10.0,4,20,5,False
+74,75,Plaid Flannel,12,1,1 shirt,7.75,125,0,25,False
+75,76,Solid Flannel,23,1,1 shirt,18.0,57,0,20,False
+76,77,Grey Chinos,12,2,1 pair,13.0,32,0,15,False
