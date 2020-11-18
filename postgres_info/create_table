@@ -1,0 +1,11 @@
+CREATE TABLE config_table (id serial not null PRIMARY KEY,model_name varchar DEFAULT NULL,
+  model_type varchar DEFAULT NULL,
+  list_of_features text,
+  target_column varchar DEFAULT NULL,
+  RMSE float DEFAULT NULL,
+  Percent_Error float DEFAULT NULL,
+  accuracy float DEFAULT NULL,
+  prec float DEFAULT NULL,
+  UNIQUE(model_name),
+  source varchar DEFAULT NULL
+);
