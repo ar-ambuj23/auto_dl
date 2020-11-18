@@ -1,0 +1,21 @@
+version: "2"
+services:
+  app:
+    image: final_app_prod
+    build: ./app
+    links:
+      - db
+    ports:
+      - "8000:8000"
+    container_name: app_cont_prod
+
+  db:
+    image: mysql:5.7
+    ports:
+      - "32000:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d/:ro
+    container_name: db_cont_prod
+

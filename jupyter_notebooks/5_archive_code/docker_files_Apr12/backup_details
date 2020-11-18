@@ -1,0 +1,1 @@
+This backup was taken before making changes such that after all changes, the training docker will be separate from the database docker.  
